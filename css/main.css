@@ -1,0 +1,23 @@
+@import url('/css/forms.css');
+
+@import url('/css/content.css');
+
+@import url('/css/toggler.css');
+
+body {
+    background: #373737 url("../img/bg.png") 0 0 repeat;
+}
+
+#header {
+    margin: 0 auto;
+    width: 200px;
+    height: 100px;
+    color: darkgray;
+
+    font-size: 32px;
+}
+
+
+
+
+
